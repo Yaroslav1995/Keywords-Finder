@@ -8,7 +8,7 @@ This program is developed by YG.
 in this way, as shown in the example:
  is | by | from | и | или | на 
 Pay attention to spaces and symbols '|' In the end of the file, there is also a space!
-2)You can save file with keywords without extracting(press the button "Save keywords to the file") and
+2)You can save file with keywords without extracting to textBox(press the button "Save keywords to the file" for this) and
 you can highlight keywords without saving.
 
 Good luck!
