@@ -1,0 +1,7 @@
+ from | ok | of | and | as | the | a | with | on | in | at | to | for | under | after 
+| it | is | are | their | her | she | he | they | when | where | by | for 
+| Of | And | As | The | A | With | On | In | At | To | For | Under 
+| After | It | Is | Are | Their | Her | She | He | They | When | Where| By 
+| For | он | и | в | с | или | из | а | к | ос | для | при | после | перед | до | это 
+| он | она | оно | они | на | например | под | между | их | что | за | із | і | а | в | як | що 
+| у | по | з | наприклад  

@@ -1,0 +1,24 @@
+C:\Users\Yaroslav\Documents\Visual Studio 2015\Projects\KeyWords\KeyWords\bin\Debug\KeyWords.exe.config
+C:\Users\Yaroslav\Documents\Visual Studio 2015\Projects\KeyWords\KeyWords\bin\Debug\KeyWords.exe
+C:\Users\Yaroslav\Documents\Visual Studio 2015\Projects\KeyWords\KeyWords\bin\Debug\KeyWords.pdb
+C:\Users\Yaroslav\Documents\Visual Studio 2015\Projects\KeyWords\KeyWords\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Yaroslav\Documents\Visual Studio 2015\Projects\KeyWords\KeyWords\obj\Debug\KeyWords.csprojResolveAssemblyReference.cache
+C:\Users\Yaroslav\Documents\Visual Studio 2015\Projects\KeyWords\KeyWords\obj\Debug\KeyWords.Form1.resources
+C:\Users\Yaroslav\Documents\Visual Studio 2015\Projects\KeyWords\KeyWords\obj\Debug\KeyWords.Properties.Resources.resources
+C:\Users\Yaroslav\Documents\Visual Studio 2015\Projects\KeyWords\KeyWords\obj\Debug\KeyWords.csproj.GenerateResource.Cache
+C:\Users\Yaroslav\Documents\Visual Studio 2015\Projects\KeyWords\KeyWords\obj\Debug\KeyWords.exe
+C:\Users\Yaroslav\Documents\Visual Studio 2015\Projects\KeyWords\KeyWords\obj\Debug\KeyWords.pdb
+d:\Работа\Common word collocations finder\KeyWords\KeyWords\bin\Debug\KeyWords.exe.config
+d:\Работа\Common word collocations finder\KeyWords\KeyWords\obj\Debug\KeyWords.exe
+d:\Работа\Common word collocations finder\KeyWords\KeyWords\obj\Debug\KeyWords.pdb
+d:\Работа\Common word collocations finder\KeyWords\KeyWords\bin\Debug\KeyWords.exe
+d:\Работа\Common word collocations finder\KeyWords\KeyWords\bin\Debug\KeyWords.pdb
+d:\Работа\Common word collocations finder\KeyWords\KeyWords\bin\Debug\ICSharpCode.SharpZipLib.dll
+d:\Работа\Common word collocations finder\KeyWords\KeyWords\obj\Debug\KeyWords.Form1.resources
+d:\Работа\Common word collocations finder\KeyWords\KeyWords\obj\Debug\KeyWords.Properties.Resources.resources
+d:\Работа\Common word collocations finder\KeyWords\KeyWords\obj\Debug\KeyWords.csproj.GenerateResource.Cache
+d:\Работа\Common word collocations finder\KeyWords — копия (5)\KeyWords\bin\Debug\KeyWords.exe.config
+d:\Работа\Common word collocations finder\KeyWords — копия (5)\KeyWords\obj\Debug\KeyWords.exe
+d:\Работа\Common word collocations finder\KeyWords — копия (5)\KeyWords\obj\Debug\KeyWords.pdb
+d:\Работа\Common word collocations finder\KeyWords\KeyWords\bin\Debug\DocX.dll
+d:\Работа\Common word collocations finder\KeyWords\KeyWords\obj\Debug\KeyWords.csprojResolveAssemblyReference.cache
