@@ -1,6 +1,7 @@
 # Keywords-Finder
 Source code of project, which is written in C #, for finding keywords in Microsoft Word text documents. At the moment the application works only with documents in English, Russian and Ukrainian languages.
 
+# For use
 This program is developed by YG.
 
 1)To add words that the program will not process, add them to the file "Words to be deleted.txt"
